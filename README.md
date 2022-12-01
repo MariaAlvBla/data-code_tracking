@@ -1,7 +1,11 @@
 # Data and code tracking
 
-This repository includes wiki pages with insights on how to track availability information of data
-and code used for scientific research.
+This Wiki includes tips for creating a database about the data, code, and licensing information of scientific articles published online. The tips are given for two main topics:
+
+- How to convert bibliographic information from a reference manager into rows of an excel file.
+
+- How to track data, code, and licensing information from the article's websites.
 
 Author:
-María José Álvarez Blanco
+
+María José A. B.
